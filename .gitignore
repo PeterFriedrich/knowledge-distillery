@@ -35,3 +35,4 @@ node_modules/
 
 # Claude Code personal settings (per-machine permission grants)
 .claude/settings.local.json
+.claude/worktrees/
